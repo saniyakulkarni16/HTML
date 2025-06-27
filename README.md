@@ -4,7 +4,7 @@ A simple portfolio webpage built using only HTML , perfect for beginners looking
 
 🚀 Features:
 
-Clean layout using semantic HTML (<header>, <section>, <footer>, etc.)
+Clean layout using semantic HTML 
 
 Includes personal introduction, skills, and project sections
 

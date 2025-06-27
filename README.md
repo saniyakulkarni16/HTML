@@ -10,18 +10,3 @@ Includes personal introduction, skills, and project sections
 
 Easy to customize and expand
 
-🧱 HTML Basics Used:
-
-<!DOCTYPE html> declaration
-
-Basic structure: <html>, <head>, <body>
-
-Text formatting: <h1> to <h6>, <p>, <strong>, <em>
-
-Links and navigation: <a>, <nav>, anchor links
-
-Lists: <ul>, <ol>, <li>
-
-Tables and forms: <table>, <form>, <input>, <textarea>
-
-Media: <img>, <video>
